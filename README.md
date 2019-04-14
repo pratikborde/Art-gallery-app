@@ -4,6 +4,8 @@ This is a Art gallery app created in Flutter
 
 All design, UI and UX credit goes to [Zuairia Zaman](https://dribbble.com/zuairia).
 
+[Screenshot](https://github.com/pratikborde/Art-gallery-app/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20-%202019-04-14%20at%2016.49.09.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
