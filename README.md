@@ -1,8 +1,8 @@
-# art_gallery_app
+# Art gallery app
 
 This is a Art gallery app created in Flutter
 
-All design credit goes to [Zuairia Zaman](https://dribbble.com/zuairia).
+### All design credit goes to [Zuairia Zaman](https://dribbble.com/zuairia).
 
 <img width="50%" src="https://github.com/pratikborde/Art-gallery-app/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20-%202019-04-14%20at%2016.49.09.png">
 
