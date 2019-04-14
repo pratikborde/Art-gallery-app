@@ -1,6 +1,8 @@
 # art_gallery_app
 
-A new Flutter project.
+This is a Art gallery app created in Flutter
+
+All design, UI and UX credit goes to [Zuairia Zaman](https://dribbble.com/zuairia).
 
 ## Getting Started
 
